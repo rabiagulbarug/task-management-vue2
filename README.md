@@ -1,4 +1,6 @@
-# task-management-vue
+# Task Management Example with Vue2
+
+You can check live demo: [https://task-management-vue2.vercel.app/](https://task-management-vue2.vercel.app/)
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
